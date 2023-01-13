@@ -1,3 +1,10 @@
+body {
+    display: flex;
+    margin: 50px;
+    padding: 10px;
+    box-sizing: border-box;
+}
 html {
     background-color: black;
 }
+/* Changes are made here */
